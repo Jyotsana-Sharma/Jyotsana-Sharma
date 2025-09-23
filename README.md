@@ -6,7 +6,7 @@ Machine Learning Engineer
 
 Welcome to my GitHub profile ! Starting from my college days, I embarked on a journey that eventually led me into the world of Machine Learning Engineering. On my profile, you'll discover a variety of projects that mirror my deep-seated enthusiasm for AI/ML, as well as my ongoing and forthcoming learning endeavors in this domain. Let's join forces, collaborate, and pave the way for innovation in machine learning together. Welcome aboard, and let's dive into the joy of coding!
 
-* 🌍  I'm based in New Delhi, India
+* 🌍  I'm based in New York, USA
 * ✉️  You can contact me at [jyotsanasharma212@gmail.com](mailto:jyotsanasharma212@gmail.com)
 * 🧠  I'm learning Structured ML ,Deep Learning , Frameworks like Flask/ FastAPI and much more
 * 🤝  I'm open to collaborating on Any Machine Learning Project
