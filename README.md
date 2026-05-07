@@ -8,6 +8,7 @@ Welcome to my GitHub profile ! Starting from my college days, I embarked on a jo
 
 * 🌍  I'm based in New York, USA
 * ✉️  You can contact me at [jyotsanasharma212@gmail.com](mailto:jyotsanasharma212@gmail.com)
+* ➡️  Subscribe to my substack newsletter: https://jyotsanasharma.substack.com/
 * 🧠  I'm learning Structured ML ,Deep Learning , Frameworks like Flask/ FastAPI and much more
 * 🤝  I'm open to collaborating on Any Machine Learning Project
 * ⚡  I love to watch anime
